@@ -1,2 +1,2 @@
-# OJ
-just code
+# OJ exercise and reflection
+
